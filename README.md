@@ -13,14 +13,14 @@ To examine the issue of how crimes per capita may affect the rent prices in cert
 We also included and merged the following 2 datasets with our existing one because
 unemployment rate and median household income might be confounding variables in our
 experiment:
-● Unemployment data - US Bureau of Labor Statistics (2005-2015)
-● Median Household Income Data - US Census Dataset (2005-2015)
+- Unemployment data - US Bureau of Labor Statistics (2005-2015)
+- Median Household Income Data - US Census Dataset (2005-2015)
 
 
 # The Approach & Findings
 We hypothesize two possible outcomes:
-1. $𝐻_0$: Crimes per capita do NOT have an impact on average rent prices
-2. $𝐻_a$ : Crimes per capita do have an impact on average rent prices
+- $𝐻_0$: Crimes per capita do NOT have an impact on average rent prices
+- $𝐻_a$ : Crimes per capita do have an impact on average rent prices
 
 After data cleaning process, ummary statistics roughly suggested that crimes per capita moved in the opposite direction as the average rent prices from 2005-2015, while the median household moved in the same direction. Correlation coefficients coincided with our simple observations from the summary statistics. One thing worth noticing was that the 2008 financial crisis disrupted the unemployment rate data and rendered the correlation coefficient between unemployment rate and average rent prices less meaningful.
 
