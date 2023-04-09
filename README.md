@@ -4,10 +4,8 @@
   
   **By gathering, cleaning, and merging relevant datasets from various sources, as well as ruuning multivariate linear regression analyses in Python Jupyter Notebooks, this report finds a negavie impact of crimes per capita on the average rental prices across 51 major US cities over a time span of 11 years, from 2005 to 2015.**
 
-To understand more details about the project, please refer to the "Executive Summary" pdf file. For a quick glimpse, please read the following:
-
 # Quick Glimpse of the Deatils
-
+To understand more details about the project, please refer to the "Executive Summary" pdf file. For a quick glimpse, please read the following:
 
 # The Data
 To examine the issue of how crimes per capita may affect the rent prices in certain cities, we gathered a US crime dataset from Kaggle (1970-2015) and rent estimate datasets (2005-2015) from the Office of Policy Development and Research (PDR). Due to the differences in our datasets, we decided to study the years 2005 to 2015, and we merged the two datasets based on city, state, and year after data cleaning.
